@@ -39589,7 +39589,7 @@ if(k==null?h==null:k===h){q.a($.PP[i].k(0,"data")).push(A.a(["No",J.aZ($.bh[l],"
 j=!0
 break}++i}if(!j)$.PP.push(A.a(["team",A.bP(J.aZ($.bh[l],"team")),"data",A.b([A.a(["No",J.aZ($.bh[l],"num"),"hostname",J.aZ($.bh[l],"hostname"),"service",J.aZ($.bh[l],"service"),"usage",J.aZ($.bh[l],"usage")],p,o)],n)],p,m))}}}return A.Q(null,r)}})
 return A.R($async$wM,r)},
-I(a){var s,r,q,p,o,n=this,m=null,l="\uac1c\uc778\uc815\ubcf4 \uac80\ucd9c\uc194\ub8e8\uc158 (Server-i)",k="3\uc6d4 \ucc29\uc218 \uc11c\ubc84",j=A.aQ("\uae30\uc220\uac1c\ubc1c\uadf8\ub8f9 \ubcf4\uc548 Dash Board",m,n.d,m),i=t.p,h=A.b([A.hl(A.aQ("\uae30\uc900\uc77c : 2\uc6d4 23\uc77c    ",m,n.e,m),m,m)],i),g=A.ahp(A.aQ($.l5?"\ud074\ub80c\uc9d5 \uc81c\uac70":"\ud074\ub80c\uc9d5 \ucd94\uac00",m,m,B.fk),!1,new A.a68(n)),f=A.b([],i)
+I(a){var s,r,q,p,o,n=this,m=null,l="\uac1c\uc778\uc815\ubcf4 \uac80\ucd9c\uc194\ub8e8\uc158 (Server-i)",k="3\uc6d4 \ucc29\uc218 \uc11c\ubc84",j=A.aQ("\uae30\uc220\uac1c\ubc1c\uadf8\ub8f9 \ubcf4\uc548 Dash Board",m,n.d,m),i=t.p,h=A.b([A.hl(A.aQ("\uae30\uc900\uc77c : 2\uc6d4 26\uc77c    ",m,n.e,m),m,m)],i),g=A.ahp(A.aQ($.l5?"\ud074\ub80c\uc9d5 \uc81c\uac70":"\ud074\ub80c\uc9d5 \ucd94\uac00",m,m,B.fk),!1,new A.a68(n)),f=A.b([],i)
 if($.l5)f.push(A.aQ(l,m,n.d.a4e(24,B.kO),m))
 f.push(B.wl)
 s=n.eC(n.y,"Lab",n.w)
