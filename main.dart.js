@@ -39618,7 +39618,7 @@ if(k==null?h==null:k===h){q.a($.PT[i].k(0,"data")).push(A.a(["No",J.aZ($.bh[l],"
 j=!0
 break}++i}if(!j)$.PT.push(A.a(["team",A.bP(J.aZ($.bh[l],"team")),"data",A.b([A.a(["No",J.aZ($.bh[l],"num"),"hostname",J.aZ($.bh[l],"hostname"),"service",J.aZ($.bh[l],"service"),"usage",J.aZ($.bh[l],"usage")],p,o)],n)],p,m))}}}return A.Q(null,r)}})
 return A.R($async$wM,r)},
-I(a){var s,r,q,p,o,n,m=this,l=null,k="\uac1c\uc778\uc815\ubcf4 \uac80\ucd9c\uc194\ub8e8\uc158 (Server-i)",j="3\uc6d4 \ucc29\uc218 \uc11c\ubc84",i=A.aR("\uae30\uc220\uac1c\ubc1c\uadf8\ub8f9 \ubcf4\uc548 Dash Board",l,m.d,l),h=t.p,g=A.b([A.hl(A.aR("\uae30\uc900\uc77c : 2\uc6d4 29\uc77c    ",l,m.e,l),l,l)],h),f=$.nl,e=A.ahv(A.aR(f?"\ud074\ub80c\uc9d5 \uc81c\uac70":"\ud074\ub80c\uc9d5 \ucd94\uac00",l,l,B.fk),!1,new A.a6d(m)),d=A.bX(0,1000),c=f?1:0
+I(a){var s,r,q,p,o,n,m=this,l=null,k="\uac1c\uc778\uc815\ubcf4 \uac80\ucd9c\uc194\ub8e8\uc158 (Server-i)",j="3\uc6d4 \ucc29\uc218 \uc11c\ubc84",i=A.aR("\uae30\uc220\uac1c\ubc1c\uadf8\ub8f9 \ubcf4\uc548 Dash Board",l,m.d,l),h=t.p,g=A.b([A.hl(A.aR("\uae30\uc900\uc77c : 3\uc6d4 4\uc77c    ",l,m.e,l),l,l)],h),f=$.nl,e=A.ahv(A.aR(f?"\ud074\ub80c\uc9d5 \uc81c\uac70":"\ud074\ub80c\uc9d5 \ucd94\uac00",l,l,B.fk),!1,new A.a6d(m)),d=A.bX(0,1000),c=f?1:0
 f=A.ajR(A.agj(A.aR(k,l,m.d.a4h(24,B.kO),l),B.b8,d,c),!0,!0,f)
 c=m.eD(m.y,"Lab",m.w)
 d=m.eD(m.y,"\ub2f4\ub2f9\ubd80\uc11c",m.w*2)
