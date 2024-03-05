@@ -39633,7 +39633,7 @@ I(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f=this,e=null,d="\uac1c\uc778\uc815\ubcf4 \ua
 A.f_("build")
 s=A.aQ("\uae30\uc220\uac1c\ubc1c\uadf8\ub8f9 \ubcf4\uc548 Dash Board",e,f.d,e)
 r=t.p
-q=A.b([A.hl(A.aQ("\uae30\uc900\uc77c : 3\uc6d4 4\uc77c    ",e,f.e,e),e,e)],r)
+q=A.b([A.hl(A.aQ("\uae30\uc900\uc77c : 3\uc6d4 5\uc77c    ",e,f.e,e),e,e)],r)
 p=$.l5
 o=A.ahv(A.aQ(p?"\ud074\ub80c\uc9d5 \uc81c\uac70":"\ud074\ub80c\uc9d5 \ucd94\uac00",e,e,B.fl),!1,new A.a6d(f))
 n=A.bX(0,1000)
@@ -39644,13 +39644,13 @@ n=f.eD(f.y,"\ub2f4\ub2f9\ubd80\uc11c",f.w*2)
 l=f.y
 k=f.w
 j=$.l5?"Agent \uc124\uce58":d
-k=A.eD(A.b([f.eD(l/2,j,k*3+k*1.5+k*1.3),A.du(A.b([f.eD(f.y/2,"\uc124\uce58\uc644\ub8cc",f.w),f.eD(f.y/2,"\ubbf8\uc124\uce58",f.w),f.eD(f.y/2,c,f.w*1.5),f.eD(f.y/2,"\uc810\uac80\ub300\uc0c1",f.w),f.eD(f.y/2,"\uc810\uac80\uc728",f.w*1.3)],r),B.E,B.G)],r),B.E,B.ae,B.G)
+k=A.eD(A.b([f.eD(l/2,j,k*3+k*1.5+k*1.3),A.du(A.b([f.eD(f.y/2,"\uc124\uce58\uc644\ub8cc",f.w),f.eD(f.y/2,"\ubbf8\uc124\uce58",f.w),f.eD(f.y/2,c,f.w*1.5),f.eD(f.y/2,"\uc810\uac80\ub300\uc0c1",f.w),f.eD(f.y/2,"\uc124\uce58\uc728",f.w*1.3)],r),B.E,B.G)],r),B.E,B.ae,B.G)
 j=$.l5
 l=A.bX(0,1000)
 i=j?1:0
 h=f.y
 g=f.w
-return new A.vU(new A.rd(s,q,!0,new A.M5(e,e,1/0,56),e),A.GY(A.GY(A.eD(A.b([p,B.wn,A.du(A.b([A.eD(A.b([A.du(A.b([m,n,k,A.ajR(A.agj(A.eD(A.b([f.eD(h/2,"\ud074\ub80c\uc9d5 (\uac1c\uc778\uc815\ubcf4 \uc0ad\uc81c)",g*3+g*1.5+g*1.3),A.du(A.b([f.eD(f.y/2,"\uc0ad\uc81c\uc644\ub8cc",f.w),f.eD(f.y/2,"\ubbf8\uc644\ub8cc",f.w),f.eD(f.y/2,c,f.w*1.5),f.eD(f.y/2,"\uc810\uac80\ub300\uc0c1",f.w),f.eD(f.y/2,"\uc810\uac80\uc728",f.w*1.3)],r),B.E,B.G)],r),B.E,B.ae,B.G),B.b8,l,i),!0,!0,j)],r),B.E,B.G),f.Tr()],r),B.E,B.ae,B.G),B.An,f.P9(a)],r),B.cM,B.G),A.du(A.b([A.adz("resource/mouse2.jpg",80,e),A.aQ("  \uc88c\uc6b0 \uc2a4\ud06c\ub864\uc740 \ub9c8\uc6b0\uc2a4 \ub4dc\ub798\uadf8\ub97c \uc0ac\uc6a9\ud558\uc138\uc694",e,f.f.cl(B.bo),e)],r),B.E,B.G)],r),B.E,B.ae,B.G),B.cP,B.ay),e,B.b7),o,e)},
+return new A.vU(new A.rd(s,q,!0,new A.M5(e,e,1/0,56),e),A.GY(A.GY(A.eD(A.b([p,B.wn,A.du(A.b([A.eD(A.b([A.du(A.b([m,n,k,A.ajR(A.agj(A.eD(A.b([f.eD(h/2,"\ud074\ub80c\uc9d5 (\uac1c\uc778\uc815\ubcf4 \uc0ad\uc81c)",g*3+g*1.5+g*1.3),A.du(A.b([f.eD(f.y/2,"\uc0ad\uc81c\uc644\ub8cc",f.w),f.eD(f.y/2,"\ubbf8\uc644\ub8cc",f.w),f.eD(f.y/2,c,f.w*1.5),f.eD(f.y/2,"\uc810\uac80\ub300\uc0c1",f.w),f.eD(f.y/2,"\uc0ad\uc81c\uc728",f.w*1.3)],r),B.E,B.G)],r),B.E,B.ae,B.G),B.b8,l,i),!0,!0,j)],r),B.E,B.G),f.Tr()],r),B.E,B.ae,B.G),B.An,f.P9(a)],r),B.cM,B.G),A.du(A.b([A.adz("resource/mouse2.jpg",80,e),A.aQ("  \uc88c\uc6b0 \uc2a4\ud06c\ub864\uc740 \ub9c8\uc6b0\uc2a4 \ub4dc\ub798\uadf8\ub97c \uc0ac\uc6a9\ud558\uc138\uc694",e,f.f.cl(B.bo),e)],r),B.E,B.G)],r),B.E,B.ae,B.G),B.cP,B.ay),e,B.b7),o,e)},
 P9(a){var s,r,q,p,o=this,n=null,m=t.p,l=A.du(A.b([A.tL(B.cS,B.e5,n),A.aQ(" \uac1c\ubc1c\uc11c\ubc84 List",n,o.e.pc(B.aV),n)],m),B.E,B.G),k=o.f,j=A.aQ(" - \uc2dc\uc2a4\ud15c \uc778\ubca4\ud1a0\ub9ac\uc5d0 \uc791\uc131\ub41c \uac1c\ubc1c\uc11c\ubc84 \ud638\uc2a4\ud2b8\uba85\uc73c\ub85c \uac1c\uc778\uc815\ubcf4 \uac80\ucd9c\uc194\ub8e8\uc158 \uc124\uce58\ud604\ud669\uc744 \ud655\uc778\ud569\ub2c8\ub2e4",n,k,n),i=A.aQ(" - \uc791\uc131\ub41c \ud638\uc2a4\ud2b8\uba85\uc774 \uc2e4\uc81c \uc11c\ubc84\uc758 \ud638\uc2a4\ud2b8\uba85\uacfc \ub2e4\ub974\uba74 \uc810\uac80\uc644\ub8cc\ub85c \ud310\uc815\ub418\uc9c0 \uc54a\uc2b5\ub2c8\ub2e4. ",n,k,n)
 k=A.tW(!1,!0,A.aQ("  1. \ubaa8\ubc14\uc77c\uc11c\ube44\uc2a4\uac1c\ubc1cLab (\ud074\ub9ad)",n,k.cl(B.bo),n),n,!0,n,n,n,n,n,n,n,n,n,new A.a6e(o),n,n,n,n)
 s=A.tW(!1,!0,A.aQ("  2. \uae30\uc5c5\uc11c\ube44\uc2a4\uac1c\ubc1cLab (\ud074\ub9ad)",n,o.f.cl(B.bo),n),n,!0,n,n,n,n,n,n,n,n,n,new A.a6f(o),n,n,n,n)
